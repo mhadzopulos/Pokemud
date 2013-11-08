@@ -1,0 +1,48 @@
+THINGS TO DO:
+
+~ done
+*working
+!not started
+
+////////////////////////
+*user commands:
+
+!name(pokemon)
+!trade(pokemon)
+
+switch
+-get rid of: prereq moves
+
+/////////////////////////
+*make timer/hb:
+
+!night/day
+-!dark(city)
+
+!watch - time 
+~catch pokemon and still fight it
+
+///////////////////////////
+*other:
+
+*status effects-stun/sleep/frozen
+~special actions - prereqs (may need fixing)
+*TM's/HM's 
+-!pokemon isAble, remove?
+
+*seeing/hearing other users
+-buying/selling
+
+!multiple fights
+
+!maxing out - levels - 100, EVS - 255 per, 510 max 
+
+
+FIXES
+
+!client/server socket IP's 		 - critical
+~single client logged in
+~autoscrolling for clients		 - medium high
+~User log in - saves 2 pokemon?	 	 - medium
+!colored font 				 - low //Can't do in JTextField
+!pokemon/area in set position for client - low

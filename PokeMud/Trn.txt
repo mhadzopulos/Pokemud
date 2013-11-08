@@ -1,0 +1,189 @@
+12
+
+//NUM = Num TRN//
+#1
+novice joe
+15
+true
+200
+10
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+false
+false
+false
+You want to battle?! Alright lets do it!
+Hey you! I just got this cool new pokemon! Wanna give it a go?
+Well it looks like I need to find some better pokemon.
+I just lost... I need some time.
+
+#2
+Professor Jacey
+1
+false
+false
+true
+false
+Cut it out! You know I'm too old to do the hankie pankie.
+Alright let me see your balls for a second.
+If you need to heal just ask me. You should be heading up to Diamond City, though.
+
+#3
+assistant
+1
+false
+true
+false
+false
+Errrr I'm not sure I should do that at work...
+I'd be glad to help you out!
+You should see Jacey for healing or head up to Diamond City. Just follow route 1 and you will find your way.
+
+#4
+citizen
+18
+false
+false
+false
+false
+I'm not a trainer!
+Welcome to Diamond City!
+
+#5
+Nurse Joy
+19
+false
+false
+true
+false
+Sorry, I don't do battles
+Let me see your balls for a second. There we go!
+Be sure to say hello to all the other Nurses!
+
+#6
+shady figure
+19
+false
+false
+false
+false
+I don't battle whelps
+Can you see i'm a bit busy here...
+
+#7
+shopkeep
+20
+false
+true
+false
+false
+Go find a trainer for that!
+I'll help you out. Whaddya need!
+Make sure you have everything you need. Don't go unprepared!
+
+#8
+kid
+21
+false
+false
+false
+false
+Help this kid is trying to beat me up!
+There are scary people moving in from another region
+
+#9
+informant
+23
+false
+false
+false
+false
+Save the battles for the gym.
+This is the great dragon gym of Opal City. Be warned you must have all other badges and some good pokemon!
+
+#10
+vladimir
+24
+true
+5200
+6
+0
+0
+0
+0
+0
+60
+0
+0
+0
+0
+0
+false
+false
+true
+Are you ready kid? This is your last test!
+I am Vladimir. Of course by now you know that I train only the greatest of pokemon and dragons are by far the best.
+I can't believe it kid, you beat me! Here is the official badge of the Opal Gym!
+I have already been shamed recently. Go battle someone else.
+11
+10
+Sorry but I only battle worthy opponents. 
+
+#11
+novice betty
+29
+true
+260
+19
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+false
+false
+false
+You think you can take me? 
+I really enjoy my rattatta's company.
+My poor wittle guy!
+My rattatta's still not up to fighting...
+
+#12
+bugcatcher tom
+32
+true
+415
+11
+14
+0
+0
+0
+0
+5
+5
+0
+0
+0
+0
+false
+false
+false
+My pure defense is going to crush you!
+I sit and wait like my pokemon
+What?! But I can't be defeated!
+Wait a bit longer for me
